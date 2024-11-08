@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Confirmation - Little Caesars</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="confirmation-container">
+        <h3>Order Confirmed!</h3>
+        <p>Your free small pizza is on the way. Thank you for redeeming your reward!</p>
+    </div>
+</body>
+</html>
